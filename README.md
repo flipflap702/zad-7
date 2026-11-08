@@ -1,1 +1,35 @@
-zadanie 1 
+<div style="background-color: green; color: white; padding: 10px;">
+  <h1>Zadanie 3</h1>
+  <!-- Komentarz: Autor: Filip Pap, Szkoła: ZSE, Klasa: 2F -->
+  
+  <h1 align="right">Żart o programiście</h1>
+  <fieldset>
+    <legend>Nowy projekt</legend>
+    Dlaczego programiści nie lubią natury?<br>
+    - Ponieważ ma za dużo robaków (bugów).<br>
+  </fieldset>
+  
+  <hr size="4" width="50%" align="left" color="red">
+
+  <h2 align="left">Żart o bazie danych</h2>
+  <fieldset>
+    <legend>Kopia zapasowa</legend>
+    Są dwa rodzaje ludzi: ci, którzy robią kopie zapasowe, oraz ci, którzy jeszcze nie stracili wszystkich danych.<br>
+  </fieldset>
+
+  <hr size="10" width="100%" align="center" noshade>
+
+  <h3 align="center">Żart o internecie</h3>
+  <fieldset>
+    <legend>Wolne łącze</legend>
+    - Dlaczego twój komputer tak wolno działa?<br>
+    - Bo próbuję pobrać plik z przyszłego tygodnia.<br>
+  </fieldset>
+
+  <hr size="6" width="75%" align="right" color="yellow">
+
+  <p>Pap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filip</p>
+  <p>&copy; &reg; &euro; &sect; &para; &yen; &dagger;</p>
+</div>
+
+<hr>
