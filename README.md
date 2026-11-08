@@ -9,6 +9,7 @@
 <body>
 
 <!-- ZADANIE 1 -->
+<a> name="skok_poczatek"></a>
 <h1>Zadanie 1</h1>
 <p align="right"><font color="blue" size="7" face="Arial">Filip</font></p><br>
 <p align="right"><font color="blue" size="6" face="Arial">Filip</font></p><br>
